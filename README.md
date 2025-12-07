@@ -4,13 +4,13 @@ vim like, do one thing and do it well. And try to avoid proprietary garbage and
 spyware when I can.
 ```
 - /usr/bin/sh:              bash
-- Terminal Emulator:        alacritty
+- Terminal Emulator:        foot
 - Audio Server:             pipewire
 - WM/Compositor:            sway
-- Status bar:               waybar
+- Status bar:               i3status-rs
 - Application Launcher:     wmenu
 - Fuzzy Finder:             fzf
-- Notification Daemon:      mako
+- Notification Daemon:      dunst
 - Editor:                   vim & code
 - File manager:             lf
 - Music player:             Spotify-launcher
