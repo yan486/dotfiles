@@ -1,4 +1,5 @@
 ## Software I Use
+Lightweight,open source,Simple.
 ```
 - /usr/bin/sh:              bash
 - Terminal Emulator:        foot
