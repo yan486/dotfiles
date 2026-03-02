@@ -11,8 +11,8 @@ Lightweight,open source,Simple.
 - Notification Daemon:      dunst
 - Editor:                   vim & code
 - File manager:             lf
-- Music player:             Spotify-launcher/spotify
+- Music player:             Spotify-launcher/spotify/spotify web
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
 - Web Browser:              firefox
-- Fonts:                    noto
+- Fonts:                    noto/ttf-sarasa-gothic
