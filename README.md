@@ -15,4 +15,4 @@ Lightweight,open source,Simple.
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
 - Web Browser:              firefox
-- Fonts:                    noto/ttf-sarasa-gothic
+- Fonts:                    noto/wqy-zenhei
