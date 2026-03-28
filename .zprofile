@@ -4,6 +4,6 @@ if [ -d "$HOME/platform-tools" ] ; then
 fi
 export EDITOR='vim'
 #java config
-export JAVA_HOME=/opt/graalvm-jdk-25.0.2+10.1
+export JAVA_HOME=/opt/java*
 export CLASSPATH=.:$JAVA_HOME/lib
 export PATH="$PATH:$JAVA_HOME/bin"\
