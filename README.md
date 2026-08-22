@@ -8,7 +8,7 @@ Lightweight,open source,Simple.
 - Status bar:               waybar/swaybar
 - Application Launcher:     wmenu
 - Fuzzy Finder:             fzf
-- Notification Daemon:      dunst
+- Notification Daemon:      mako
 - Editor:                   vim & code
 - File manager:             lf
 - Music player:             Spotify-launcher/spotify/spotify web
