@@ -1,11 +1,11 @@
 ## Software I Use
 Lightweight,open source,Simple.
 ```
-- /usr/bin/sh:              bash/zsh
+- /usr/bin/sh:              bash
 - Terminal Emulator:        foot
 - Audio Server:             pipewire
 - WM/Compositor:            sway
-- Status bar:               i3status-rs/swaybar
+- Status bar:               waybar/swaybar
 - Application Launcher:     wmenu
 - Fuzzy Finder:             fzf
 - Notification Daemon:      dunst
