@@ -1,7 +1,7 @@
 ## Software I Use
 Lightweight,open source,Simple.
 ```
-- /usr/bin/sh:              bash
+- /usr/bin/sh:              bash/zsh
 - Terminal Emulator:        foot
 - Audio Server:             pipewire
 - WM/Compositor:            sway
@@ -14,5 +14,5 @@ Lightweight,open source,Simple.
 - Music player:             Spotify-launcher/spotify/spotify web
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
-- Web Browser:              firefox
-- Fonts:                    noto
+- Web Browser:              firefox/chromium
+- Fonts:                    ttf-dejavu/ttf-sarasa-gothic
