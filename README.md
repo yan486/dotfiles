@@ -5,14 +5,14 @@ Lightweight,open source,Simple.
 - Terminal Emulator:        foot
 - Audio Server:             pipewire
 - WM/Compositor:            sway
-- Status bar:               waybar/swaybar
+- Status bar:               swaybar
 - Application Launcher:     wmenu
 - Fuzzy Finder:             fzf
 - Notification Daemon:      mako
 - Editor:                   vim & code
 - File manager:             lf
-- Music player:             Spotify-launcher/spotify/spotify web
+- Music player:             bilibili :)
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
-- Web Browser:              firefox/chromium
-- Fonts:                    ttf-dejavu/ttf-sarasa-gothic
+- Web Browser:              firefox
+- Fonts:                    dejavu/lxgw
