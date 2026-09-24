@@ -4,9 +4,9 @@ if [ -d "$HOME/platform-tools" ] ; then
 fi
 export EDITOR='vim'
 #java config
-export JAVA_HOME=/opt/java*
-export CLASSPATH=.:$JAVA_HOME/lib
-export PATH="$PATH:$JAVA_HOME/bin"\
+export JAVA_HOME=/opt/java
+export CLASSPATH=.:$JAVA_HOME/lib:$JAVA_HOME/jre/lib
+export PATH=$JAVA_HOME/bin:$PATH
 #中文
 export LANG=zh_CN.UTF-8
 export LANGUAGE=zh_CN:en_SG
