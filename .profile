@@ -10,3 +10,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 #中文
 export LANG=zh_CN.UTF-8
 export LANGUAGE=zh_CN:en_SG
+#fcitx5
+export XMODIFIERS=@im=fcitx
+export SDL_IM_MODULE=fcitx
+export GLFW_IM_MODULE=fcitx
