@@ -11,8 +11,8 @@ Lightweight,open source,Simple.
 - Notification Daemon:      mako
 - Editor:                   vim & code
 - File manager:             lf
-- Music player:             bilibili :)
+- Music player:             I don't know
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
 - Web Browser:              firefox
-- Fonts:                    dejavu/lxgw
+- Fonts:                    I don't know
