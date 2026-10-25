@@ -1,3 +1,1 @@
-default.configured.audio.sink=alsa_output.usb-TTGK_Technology_Co._Ltd_NICEHCK_HiFi_Audio-00.analog-stereo
-default.configured.audio.source=alsa_input.pci-0000_03_00.6.analog-stereo
-default.configured.audio.sink.0=alsa_output.pci-0000_03_00.6.analog-stereo
+?
